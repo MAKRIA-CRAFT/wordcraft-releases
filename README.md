@@ -1,2 +1,2 @@
 # wordcraft-releases
-Mak Word — downloads (installers only)
+My Write — downloads (installers only)
